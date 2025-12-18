@@ -2,7 +2,7 @@
 <p align="center">
 
 ### 😎 **Sobre mim**  
-Olá, sou o **Gabriel**, desenvolvedor full stack, trabalho principalmente com Java(com spring boot) e Java Script(com react). Explore meus projetos e junte-se à mim nessa jornada!
+Olá, sou o **Gabriel**, desenvolvedor full stack, trabalho principalmente com Java (com spring boot) e Java Script (com react). Explore meus projetos e junte-se à mim nessa jornada!
 
 <!--🐱CAT-->
 <p align="center">
@@ -11,7 +11,7 @@ Olá, sou o **Gabriel**, desenvolvedor full stack, trabalho principalmente com J
 
 
 ### 🌐 **Minhas Redes Sociais**  
-Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
+Fique por dentro das novidades! Acompanhe-me no Instagram e Replit para mais interações e projetos:
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <a href="https://www.instagram.com/gralves13">
@@ -79,11 +79,11 @@ Entre em contato para mais informações ou se quiser colaborar! 🚀
 ---
 
 ### 🌱 **Vamos Juntos!**  
-Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Juntos, podemos transformar suas ideias em realidade! 🚀
+
 
 ---
 
-### 📊 
+
 <picture style="background-color: transparent; display: flex; justify-content: center;">
   <source
     media="(prefers-color-scheme: dark)"
