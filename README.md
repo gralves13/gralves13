@@ -2,7 +2,7 @@
 <p align="center">
 
 ### 😎 **Sobre mim**  
-Olá, sou o **Gabriel**, desenvolvedor full stack, trabalho principalmente com Java (com spring boot) e Java Script (com react). Explore meus projetos e junte-se à mim nessa jornada!
+Olá, sou o **Gabriel**, desenvolvedor full stack com atuação em desenvolvimento de aplicações web. Explore meus projetos e junte-se à mim nessa jornada!
 
 <!--🐱CAT-->
 <p align="center">
