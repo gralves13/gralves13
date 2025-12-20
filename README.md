@@ -2,8 +2,7 @@
 <p align="center">
 
 ### 😎 **Sobre mim**  
-Olá, sou o **Gabriel**, desenvolvedor full stack com atuação em desenvolvimento de aplicações web. Explore meus projetos e junte-se à mim nessa jornada!
-
+Olá, sou o **Gabriel**, profissional de Cybersegurança e Desenvolvimento em Python, com atuação focada na automação de processos, segurança de sistemas, analise de vulnerabilidades e criação de soluções eficientes.
 <!--🐱CAT-->
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
